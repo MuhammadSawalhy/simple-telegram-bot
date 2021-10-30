@@ -1,0 +1,30 @@
+{
+  "name": "simple-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadSawalhy/simple-telegram-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "chatbot",
+    "telegram",
+    "telegraf"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadSawalhy/simple-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/MuhammadSawalhy/simple-telegram-bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.14",
+    "telegraf": "^4.4.2"
+  }
+}
